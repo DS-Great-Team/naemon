@@ -21,7 +21,7 @@ if [ -z "$NAEMON_WEB_USER" -o -z "$NAEMON_WEB_PASSWORD" ]
 then
 	echo "using default naemon web interface login credentials"
 	NAEMON_WEB_USER=admin
-	NAEMON_WEB_PASSWORD=c4mb14m3!
+	NAEMON_WEB_PASSWORD=thruknaemon.,
 else
 	echo "using custom naemon web interface login credentials"
 fi
